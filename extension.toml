@@ -1,0 +1,23 @@
+id = "sable-dark-modern-theme"
+name = "Sable Dark Modern"
+version = "0.0.1"
+schema_version = 1
+description = "A refined dark theme for Zed based on One Dark Pro Max, with VS Code Dark Modern inspired panels, borders, and selections."
+repository = "https://github.com/sleepinginsummer/zed-sable-dark-modern-theme"
+authors = ["sleepinginsummer"]
+themes = ["themes/sable-dark-modern.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
